@@ -16,8 +16,8 @@ const DammyShittu = {
   askMeAbout: [Music, Movies, Cryptocurrency],
   challenge: "I'm honing my skills in JavaScript",
   work: "I'm currently a student at Microverse(an online development school)"
-  funFacts: [I do voiceovers on the side.]
+  funFacts: ['I do voiceovers on the side.']
 }
 ```
 
-<p>You can check out my LinkedIn Profile<a href="https://www.linkedin.com/in/adedamola-shittu-3ab465172/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my LinkedIn Profile <a href="https://www.linkedin.com/in/adedamola-shittu-3ab465172/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
