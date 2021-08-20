@@ -16,7 +16,7 @@ const DammyShittu = {
   askMeAbout: [Music, Movies, Cryptocurrency],
   challenge: "I'm honing my skills in JavaScript",
   work: "I'm currently a student at Microverse(an online development school)"
-  funFacts: ['I do voiceovers on the side.']
+  funFacts: [I do voiceovers on the side.]
 }
 ```
 
