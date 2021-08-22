@@ -1,4 +1,4 @@
-<h2> Hi, I'm Adedamola Shittu! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<h2> Hi, I'm Adedamola! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
 <p><em>Remote Full-stack web developer looking for exciting adventure</em> 🎉 </p>
 
