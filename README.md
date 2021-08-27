@@ -20,4 +20,7 @@ const DammyShittu = {
 }
 ```
 
+[![Dammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DammyShittu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p>You can check out my portfolio <a href="https://dammyshittu.github.io/Portfolio-Project/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
