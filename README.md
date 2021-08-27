@@ -15,7 +15,7 @@ const DammyShittu = {
   code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap],
   askMeAbout: [Music, Movies, Cryptocurrency],
   challenge: "I'm honing my skills in JavaScript",
-  work: "I'm currently a student at Microverse(an online development school)"
+  work: "I'm currently a student at Microverse(an online development school)",
   funFacts: ['I do voiceovers on the side.']
 }
 ```
