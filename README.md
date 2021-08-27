@@ -20,4 +20,4 @@ const DammyShittu = {
 }
 ```
 
-<p>You can check out my LinkedIn Profile <a href="https://www.linkedin.com/in/adedamola-shittu-3ab465172/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://dammyshittu.github.io/Portfolio-Project/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
