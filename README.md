@@ -19,8 +19,24 @@ const DammyShittu = {
   funFacts: ['I do voiceovers on the side.']
 }
 ```
+<h3 align="center">GitHub Statistics:</h3>
 
-[![Dammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DammyShittu)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=DammyShittu&show_icons=truetheme=dark&locale=en" alt="Dammy" /></p>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DammyShittu&theme=vue-dark" alt="Dammy" /></p>
+
+<h3 align="center">Let's Connect 🤝</h3>
+<div align="center">
+<a target="_blank"
+href="https://www.linkedin.com/in/adedamola-shittu-3ab465172/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
+href="mailto:shittuadedamola@rocketmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
+href="https://twitter.com/aded_shittu"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 <p>You can check out my portfolio <a href="https://dammyshittu.github.io/Portfolio-Project/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<div/>
+
+
+
