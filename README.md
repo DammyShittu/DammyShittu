@@ -21,7 +21,7 @@ const DammyShittu = {
 ```
 <h3 align="center">GitHub Statistics:</h3>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=DammyShittu&show_icons=truetheme=dark&locale=en" alt="Dammy" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=DammyShittu&show_icons=true&theme=vue&locale=en" alt="Dammy" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DammyShittu&theme=vue-dark" alt="Dammy" /></p>
 
