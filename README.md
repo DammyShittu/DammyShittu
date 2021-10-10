@@ -35,7 +35,7 @@ src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Email&l
 href="https://twitter.com/aded_shittu"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
-<p>You can check out my portfolio <a href="https://dammyshittu.github.io/Portfolio-Project/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://dammy-portfolio.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 <div/>
 
 
