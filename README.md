@@ -14,7 +14,7 @@
 
 - Ask Me About: Music, Movies, Cryptocurrency
 
-- Current Challenge: "I'm honing my skills in Ruby and Ruby on Rails"
+- Current Challenge: I'm honing my skills in Ruby and Ruby on Rails
 
 - Work: I'm currently a student at Microverse (an online development school). I also perform code reviews for other students 😉
 
