@@ -16,7 +16,7 @@
 
 - Current Challenge: I'm honing my skills in Ruby and Ruby on Rails
 
-- Work: I'm currently a student at Microverse (an online development school). I also perform code reviews for other students 😉
+- Work: I recently completed a full-stack development program at Microverse (a remote software development school). I also perform code reviews for other students 😉
 
 - FunFacts: In my free time, I am a voice-over artist 🎙️
 
