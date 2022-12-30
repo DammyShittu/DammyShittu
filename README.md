@@ -14,7 +14,7 @@
 
 - Ask Me About: Music, Movies, Cryptocurrency
 
-- Current Challenge: I'm honing my skills in Ruby and Ruby on Rails
+- Current Challenge: I'm honing my skills in WebRTC and Python
 
 - Work: I recently completed a full-stack development program at Microverse (a remote software development school). I also perform code reviews for other students 😉
 
