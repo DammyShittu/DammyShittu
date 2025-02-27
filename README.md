@@ -12,12 +12,6 @@
 
 - Languages and Frameworks: JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap, TailwindCSS
 
-- Ask Me About: Music, Movies, Cryptocurrency
-
-- Current Challenge: I'm honing my skills in WebRTC and Python
-
-- Work: I recently completed a full-stack development program at Microverse (a remote software development school). I also perform code reviews for other students 😉
-
 - FunFacts: In my free time, I am a voice-over artist 🎙️
 
 <h3 align="center">GitHub Statistics:</h3>
